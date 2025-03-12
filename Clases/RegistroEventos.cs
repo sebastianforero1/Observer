@@ -28,6 +28,7 @@ namespace Observer.Clases
         {
             string logMensaje = mensaje.Replace("%s", nombreArchivo);
             File.AppendAllText(archivoLog, logMensaje + Environment.NewLine);
+            Console.WriteLine($"[LOG]: {logMensaje}");
         }
     }
 }
