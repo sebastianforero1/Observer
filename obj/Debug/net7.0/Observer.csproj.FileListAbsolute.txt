@@ -1,0 +1,14 @@
+C:\Users\sebas\OneDrive - UPB\2025-01\Arquitectura de Software\RepasoM\Observer\bin\Debug\net7.0\Observer.exe
+C:\Users\sebas\OneDrive - UPB\2025-01\Arquitectura de Software\RepasoM\Observer\bin\Debug\net7.0\Observer.deps.json
+C:\Users\sebas\OneDrive - UPB\2025-01\Arquitectura de Software\RepasoM\Observer\bin\Debug\net7.0\Observer.runtimeconfig.json
+C:\Users\sebas\OneDrive - UPB\2025-01\Arquitectura de Software\RepasoM\Observer\bin\Debug\net7.0\Observer.dll
+C:\Users\sebas\OneDrive - UPB\2025-01\Arquitectura de Software\RepasoM\Observer\bin\Debug\net7.0\Observer.pdb
+C:\Users\sebas\OneDrive - UPB\2025-01\Arquitectura de Software\RepasoM\Observer\obj\Debug\net7.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive - UPB\2025-01\Arquitectura de Software\RepasoM\Observer\obj\Debug\net7.0\Observer.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive - UPB\2025-01\Arquitectura de Software\RepasoM\Observer\obj\Debug\net7.0\Observer.AssemblyInfo.cs
+C:\Users\sebas\OneDrive - UPB\2025-01\Arquitectura de Software\RepasoM\Observer\obj\Debug\net7.0\Observer.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive - UPB\2025-01\Arquitectura de Software\RepasoM\Observer\obj\Debug\net7.0\Observer.dll
+C:\Users\sebas\OneDrive - UPB\2025-01\Arquitectura de Software\RepasoM\Observer\obj\Debug\net7.0\refint\Observer.dll
+C:\Users\sebas\OneDrive - UPB\2025-01\Arquitectura de Software\RepasoM\Observer\obj\Debug\net7.0\Observer.pdb
+C:\Users\sebas\OneDrive - UPB\2025-01\Arquitectura de Software\RepasoM\Observer\obj\Debug\net7.0\Observer.genruntimeconfig.cache
+C:\Users\sebas\OneDrive - UPB\2025-01\Arquitectura de Software\RepasoM\Observer\obj\Debug\net7.0\ref\Observer.dll
